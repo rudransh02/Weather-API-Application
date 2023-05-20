@@ -1,0 +1,20 @@
+.App
+{
+    text-align: center;
+}
+
+.Card
+{
+    padding-top: 3.82rem;
+    padding-bottom: 3.82rem;
+}
+
+#location
+{
+    display: inline-block;
+}
+
+.Button
+{
+    display: inline-block;
+}
